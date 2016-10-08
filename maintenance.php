@@ -42,3 +42,4 @@ add_action('muplugins_loaded', 'show_maintenance_page', 999, 0);
 			}
 		}
 	}
+?>

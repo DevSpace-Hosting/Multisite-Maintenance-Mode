@@ -1,3 +1,8 @@
 # Simple-Multisite-Maintenance-Mode
 A simple maintenance mode plugin for WordPress multisite.
-![alt tag](http://documentation.laborator.co/wp-content/uploads/2015/03/Screen-Shot-2015-03-10-at-12.51.48-PM.png)
+
+## Installation
+1.) Upload the plugin into ``wp-content/plugins``.
+
+2.) Network activate when you wan't to disable all user access to your network except network admins 
+
